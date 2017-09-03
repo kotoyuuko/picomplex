@@ -20,7 +20,7 @@
                 <form class="form-inline">
                     <div v-show="url" class="form-group">
                         <div class="input-group">
-                            <div class="input-group-addon">url</div>
+                            <div class="input-group-addon">URL</div>
                             <input id="url" type="text" class="form-control" v-model="url" placeholder="上传成功后的链接"
                                    style="width: 400px;">
                             <div class="input-group-addon">
