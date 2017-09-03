@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "kotoyuuko/picomplex",
+    "description": "Picomplex is a image storage based on sm.ms",
+    "keywords": ["picomplex", "image"],
     "license": "MIT",
     "type": "project",
     "require": {
